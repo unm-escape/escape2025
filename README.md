@@ -6,7 +6,7 @@ ESCAPE 2025 is a week-long program designed to introduce participants to scienti
 
 The materials for ESCAPE were developed through support from the National Science Foundation (NSF grants [EAR-2146272](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2146272), [RISE-2325476](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2325476), [OCE-2314273](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314273)). This year's program is made possible through generous support from the UNM Department of Earth and Planetary Sciences.
 
-This repository contains the course schedule and python notebooks for activities throughout the week. Additional course materials, shared files, and lecture slides will also be available on Google Drive.
+This repository contains the course schedule and python notebooks for activities throughout the week. Additional course materials, shared files, and lecture slides are also available on [Google Drive](https://drive.google.com/drive/folders/1sasdDqQX4HoFlmWUCOKn1E1cxkdAbRGm).
 
 ## Schedule
 
