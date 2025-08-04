@@ -19,11 +19,11 @@ This repository contains the course schedule and python notebooks for activities
 - **4:00 - 5:00:** Introduction to course projects
 
 #### Day 2: Aug 5
-- **9:00 - 10:15:** Data in python
-- **10:30 - 12:00:** Python activity
+- **9:00 - 10:00:** Data in python
+- **10:15 - 12:00:** Python activity
 - **12:00 - 1:00:** Lunch & Career goal activity
-- **1:00 - 2:30:** Introduction to Seismology
-- **2:45 - 4:00:** Seismology activity
+- **1:00 - 2:00:** Introduction to Seismology
+- **2:15 - 4:00:** Seismology activity
 - **4:00 - 5:00:** Group discussion and project selection
 
 #### Day 3: Aug 6
@@ -36,13 +36,12 @@ This repository contains the course schedule and python notebooks for activities
 - **9:00 - 10:15:** Introduction to GIS and mapping
 - **10:30 - 12:00:** GIS activity
 - **12:00 - 1:00:** Lunch & Resume activity
-- **1:00 - 2:30:** Introduction to Data Visualization
-- **2:45 - 4:00:** Data viz activity
-- **4:00 - 5:00:** Group project time
+- **1:00 - 2:00:** Introduction to Data Visualization
+- **2:15 - 3:30:** Data viz activity
+- **3:30 - 5:00:** Group project time
 
 #### Day 5: Aug 8
 - **9:00 - 12:00:** Group project time
-- **12:00 - 1:00:** Lunch & Professional panel
-- **1:00 - 2:30:** Final group presentations
+- **12:00 - 1:00:** Lunch & Faculty panel
+- **1:00 - 2:30:** Group presentations
 - **2:45 - 4:00:** Next steps and final survey
-- **4:00 - 5:00:** Faculty/Grad panel
