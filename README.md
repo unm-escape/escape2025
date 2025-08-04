@@ -13,7 +13,7 @@ This repository contains the course schedule and python notebooks for activities
 #### Day 1: Aug 4
 - **9:00 - 10:15:** Introductions + pre-survey
 - **10:30 - 12:00:** Team-building activities
-- **12:00 - 1:00:** Lunch & Undergraduate panel
+- **12:00 - 1:00:** Lunch
 - **1:00 - 2:30:** Introduction to programming
 - **2:45 - 4:00:** Python installation and exercises
 - **4:00 - 5:00:** Introduction to course projects
